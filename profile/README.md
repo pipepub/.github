@@ -53,7 +53,7 @@
 
 | Platform | Status |
 |----------|--------|
-| Dev.to | ✅ Live |
+| DEV.to | ✅ Live |
 | Ghost | ✅ Live |
 | Hashnode | ✅ Live |
 | Medium | ✅ Live (legacy token) |
@@ -114,7 +114,7 @@ Please read our [Contributing Guide](https://github.com/pipepub/pipepub/blob/mai
 - 🔗 **Share** with fellow writers and devs
 - 💬 **Follow** updates on GitHub
 
-**100% FREE**. PipeHub is open source and GitHub accounts are also free.
+**100% FREE**. PipePub is open source and GitHub accounts are also free.
 
 We kindly ask that you consider making a financial contribution to support this project.
 
