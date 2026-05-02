@@ -1,6 +1,6 @@
 <a id="top"></a>
 
-![PipePub Logo](https://pipepub.github.io/cdn/image/logo/pipepub-full-right.jpg "PipePub Logo")
+![PipePub Logo](https://pipepub.github.io/cdn/image/logo/pipepub-full-right.png "PipePub Logo")
 
 # Publish like a PRO
 
